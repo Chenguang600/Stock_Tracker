@@ -1,0 +1,6 @@
+email:
+  sender: "your_email@qq.com"
+  password: "your_smtp_password"
+  receiver: "your_email@qq.com"
+  smtp_server: "smtp.qq.com"
+  smtp_port: 465
